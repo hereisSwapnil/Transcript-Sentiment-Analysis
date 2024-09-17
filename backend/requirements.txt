@@ -1,0 +1,6 @@
+Flask
+transformers
+groq
+Werkzeug
+python-dotenv
+torch
